@@ -13,6 +13,14 @@
 - **Examples**: 9 pre-loaded pairs for quick testing (e.g., cloth design fusion, light migration).
 - **Queueing Support**: Up to 50 concurrent jobs with cache cleanup.
 
+---
+
+<img width="1918" height="967" alt="Screenshot 2025-12-22 at 20-24-43 Qwen Image Edit 2509 LoRAs Fast Fusion - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/e034f716-cc61-4cd4-8556-211b793b286a" />
+
+<img width="1918" height="1147" alt="Screenshot 2025-12-22 at 20-25-00 Qwen Image Edit 2509 LoRAs Fast Fusion - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/06a3669d-3583-4c10-b74a-64c5b56ddd73" />
+
+---
+
 ## Prerequisites
 
 - Python 3.10 or higher.
